@@ -295,7 +295,7 @@ my code on here
 }
 
 .section-bg{
-	background-image: url(file:///D:/Software/Software%202019/video/zonya%20home/img/slider.png);
+	background-image: url(img/slider.png);
 	background-size: cover;
 	padding:200px 0;
 }
